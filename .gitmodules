@@ -1,0 +1,12 @@
+[submodule "submodules/XIV-on-Mac"]
+	path = submodules/XIV-on-Mac
+	url = https://github.com/marzent/XIV-on-Mac.git
+[submodule "submodules/Dalamud"]
+	path = submodules/Dalamud
+	url = https://github.com/goatcorp/Dalamud
+[submodule "submodules/IINACT"]
+	path = submodules/IINACT
+	url = https://github.com/marzent/IINACT
+[submodule "submodules/winecx"]
+	path = submodules/winecx
+	url = https://github.com/marzent/winecx.git
